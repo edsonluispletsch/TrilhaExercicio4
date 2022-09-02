@@ -1,3 +1,2 @@
-# References
 
-* octocat 1 😈
+Texto escrito pelo pletsch
